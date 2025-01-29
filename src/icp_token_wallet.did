@@ -1,0 +1,5 @@
+service icp_token_wallet : {
+  send_tokens : (recipient : text, amount : nat64) -> (text);
+  receive_tokens : (amount : nat64) -> ();
+  get_balance : () -> (nat64);
+}

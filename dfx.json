@@ -1,0 +1,20 @@
+{
+    "canisters": {
+      "icp_token_wallet": {
+        "main": "src/lib.rs",
+        "type": "rust",
+        "candid": "src/icp_token_wallet.did",
+        "package":"icp_token_wallet"
+      }
+    },
+    "networks": {
+      "local": {
+        "bind": "127.0.0.1:8000"
+      }
+    },
+    "package": {
+      "name": "icp_token_wallet",
+      "version": "0.1.0"
+    },
+    "version": 1
+  }
