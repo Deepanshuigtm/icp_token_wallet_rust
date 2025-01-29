@@ -1,0 +1,11 @@
+/Users/deepanshu/Desktop/untitled folder/untitled folder/icp_token_wallet/target/debug/deps/libbeef-d33f318b825a8ae8.rmeta: /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/lib.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/traits.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/wide.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/generic.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/lean.rs
+
+/Users/deepanshu/Desktop/untitled folder/untitled folder/icp_token_wallet/target/debug/deps/libbeef-d33f318b825a8ae8.rlib: /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/lib.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/traits.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/wide.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/generic.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/lean.rs
+
+/Users/deepanshu/Desktop/untitled folder/untitled folder/icp_token_wallet/target/debug/deps/beef-d33f318b825a8ae8.d: /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/lib.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/traits.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/wide.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/generic.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/lean.rs
+
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/lib.rs:
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/traits.rs:
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/wide.rs:
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/generic.rs:
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/beef-0.5.2/src/lean.rs:

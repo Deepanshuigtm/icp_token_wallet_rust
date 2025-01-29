@@ -1,0 +1,10 @@
+/Users/deepanshu/Desktop/untitled folder/untitled folder/icp_token_wallet/target/debug/deps/liblock_api-9565da8ddd4936e5.rmeta: /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/lib.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/mutex.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/remutex.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/rwlock.rs
+
+/Users/deepanshu/Desktop/untitled folder/untitled folder/icp_token_wallet/target/debug/deps/liblock_api-9565da8ddd4936e5.rlib: /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/lib.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/mutex.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/remutex.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/rwlock.rs
+
+/Users/deepanshu/Desktop/untitled folder/untitled folder/icp_token_wallet/target/debug/deps/lock_api-9565da8ddd4936e5.d: /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/lib.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/mutex.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/remutex.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/rwlock.rs
+
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/lib.rs:
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/mutex.rs:
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/remutex.rs:
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lock_api-0.4.12/src/rwlock.rs:

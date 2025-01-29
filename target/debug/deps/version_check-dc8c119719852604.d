@@ -1,0 +1,10 @@
+/Users/deepanshu/Desktop/untitled folder/untitled folder/icp_token_wallet/target/debug/deps/libversion_check-dc8c119719852604.rmeta: /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/lib.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/version.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/channel.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/date.rs
+
+/Users/deepanshu/Desktop/untitled folder/untitled folder/icp_token_wallet/target/debug/deps/libversion_check-dc8c119719852604.rlib: /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/lib.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/version.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/channel.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/date.rs
+
+/Users/deepanshu/Desktop/untitled folder/untitled folder/icp_token_wallet/target/debug/deps/version_check-dc8c119719852604.d: /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/lib.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/version.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/channel.rs /Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/date.rs
+
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/lib.rs:
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/version.rs:
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/channel.rs:
+/Users/deepanshu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.5/src/date.rs:
