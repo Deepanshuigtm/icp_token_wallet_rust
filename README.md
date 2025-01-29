@@ -39,7 +39,7 @@ Follow these steps to set up and run the project locally:
 Start by cloning the repository:
 
 bash
-git clone https://github.com/Deepanshuigtm/icp_token_wallet
+git clone https://github.com/Deepanshuigtm/icp_token_wallet_rust
 cd icp_token_wallet
 2. Install Dependencies
 Use Cargo to fetch and compile all necessary dependencies:
